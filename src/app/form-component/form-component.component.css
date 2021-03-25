@@ -1,0 +1,13 @@
+.alert{
+    color:white;
+    margin-bottom:15px;
+    text-align:center;
+}
+.alert-danger{
+    background-color: rgb(233, 48, 48);
+}
+
+.form-control.ng-touched.ng-invalid{
+    border: 2px solid red;
+
+}
